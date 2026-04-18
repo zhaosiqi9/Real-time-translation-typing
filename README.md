@@ -8,10 +8,14 @@
 ```
 
 # 想体验更强的版本可以联系【3261404579@qq.com】持续迭代中
-![图 a](images/QQ20260418-234754.gif)  
-![图 b](images/QQ20260418-234905.gif)  
-![图 c](images/QQ20260418-234955.gif)  
-![图 d](images/QQ20260418-235109.gif)  
+![图 a](images/QQ20260418-234754.gif)
+
+![图 b](images/QQ20260418-234905.gif)
+
+![图 c](images/QQ20260418-234955.gif)
+
+![图 d](images/QQ20260418-235109.gif)
+
 
 # Real-time-translation-typing
 ![图 1](images/cd51c69e870ecaf0daa9a115145ac94fc979770772a913fe31d85c015000d6ed.gif)  
